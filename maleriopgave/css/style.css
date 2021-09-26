@@ -1,0 +1,62 @@
+body{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Helvetica;
+}
+
+/* Header */
+
+header{
+    height: 118px;
+    background-image: url(/images/pattern.jpeg);
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+header h3{
+    font-size: 100px; 
+    font-weight: bold; 
+    color: khaki;
+    text-align: center;
+}
+
+/* Main-tekst */
+
+main{
+    height: 400px;
+}
+
+.greenbox{
+    font-size: 32px; 
+    font-weight:bold; 
+    color: white;
+    background-color: mediumspringgreen;
+    margin: 20px 0 20px 0;
+}
+
+.redbox{
+    font-size: 32px; 
+    font-weight:bold; 
+    color: white;
+    background-color: lightcoral;
+    margin: 20px 0 20px 0;
+}
+
+.bluebox{
+    font-size: 32px; 
+    font-weight:bold; 
+    color: white;
+    background-color: skyblue;
+    margin: 20px 0 20px 0;
+}
+
+.bluetext{
+    font-weight: bold; 
+    color:blue;
+}
+
+nav{
+    margin: 20px;
+}
