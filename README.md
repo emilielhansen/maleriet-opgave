@@ -1,6 +1,4 @@
 # maleriet-opgave
-# html # css
-
 Mit svar på en skole-opgave. 
 
 Opgavebeskrivelse (pdf er linket i koden med billede af opgaven): 
